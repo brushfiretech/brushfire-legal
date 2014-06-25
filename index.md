@@ -9,7 +9,7 @@ This site is hosted on [Github Pages](https://pages.github.com/) to allow revisi
 
 * Privacy Policy
 * Terms of Use
-* Automatic Billing Agreemetn
+* Automatic Billing Agreement
 
 ---
 

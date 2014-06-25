@@ -9,6 +9,10 @@ date: 06/25/2014
 
 This site is owned and operated by Brushfire (E-vent Software, Inc.) (hereafter referred to as either "Brushfire" or "Brushfire").  This document applies to all pages contained within the brushfireapp.com domain (the "Site" or the "Service").  Herein, the organization who enlists our services to create and/or manage their web site shall be referred to as the "Client".  Collectively, Brushfire and its Clients shall be referred to as "We" or, possessively, "Our." Visitors to one of our sites shall be herein referred to by either "User" or "Customer." The Site is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein (the "Terms"). Your use of the Site constitutes your agreement to all such Terms. Please read these terms carefully, and keep a copy of them for your reference.
 
+### Privacy
+
+For information on our Privacy Policy, please visit [https://brushfireapp.com/legal](https://brushfireapp.com/legal).
+
 ### Electronic Communications
 
 Visiting the Site or sending emails to Brushfire constitutes electronic communications. You consent to receive electronic communications and you agree that all agreements, notices, disclosures and other communications that we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communications be in writing.
@@ -76,7 +80,7 @@ Brushfire reserves the right, in its sole discretion, to terminate your access t
  
 You agree that no joint venture, partnership, employment, or agency relationship exists between you and Brushfire as a result of this agreement or use of the Site. Brushfire's performance of this agreement is subject to existing laws and legal process, and nothing contained in this agreement is in derogation of Brushfire's right to comply with governmental, court and law enforcement requests or requirements relating to your use of the Site or information provided to or gathered by Brushfire with respect to such use. If any part of this agreement is determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the agreement shall continue in effect.
  
-Unless otherwise specified herein, this agreement constitutes the entire agreement between the user and Brushfire with respect to the Site and it supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between the user and Brushfire with respect to the Site. A printed version of this agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this agreement to the same extent an d subject to the same conditions as other business documents and records originally generated and maintained in printed form. It is the express wish to the parties that this agreement and all related documents be written in English.
+Unless otherwise specified herein, this agreement constitutes the entire agreement between the user and Brushfire with respect to the Site and it supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between the user and Brushfire with respect to the Site. A printed version of this agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. It is the express wish to the parties that this agreement and all related documents be written in English.
  
 ### Changes to Terms
 
