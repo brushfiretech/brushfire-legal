@@ -3,7 +3,7 @@ layout: default
 date: 06/25/2014
 ---
 
-# Privacy Policy
+## Privacy Policy
  
 Protecting your private information is our priority. This Statement of Privacy governs data collection and usage. For information on our Terms of Use, please visit [https://brushfireapp.com/legal](https://brushfireapp.com/legal).
 

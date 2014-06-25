@@ -3,9 +3,7 @@ layout: default
 date: 06/25/2014
 ---
 
-# Terms of Use
-
-## Agreement
+## Terms of Use
 
 This site is owned and operated by Brushfire (E-vent Software, Inc.) (hereafter referred to as either "Brushfire" or "Brushfire").  This document applies to all pages contained within the brushfireapp.com domain (the "Site" or the "Service").  Herein, the organization who enlists our services to create and/or manage their web site shall be referred to as the "Client".  Collectively, Brushfire and its Clients shall be referred to as "We" or, possessively, "Our." Visitors to one of our sites shall be herein referred to by either "User" or "Customer." The Site is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein (the "Terms"). Your use of the Site constitutes your agreement to all such Terms. Please read these terms carefully, and keep a copy of them for your reference.
 
