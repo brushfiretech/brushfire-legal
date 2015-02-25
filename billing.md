@@ -13,17 +13,17 @@ When processing payments each period (according to the procedures specified in t
 
 All events are billed at a per-attendee rate that is a combination of a fixed amount per attendee and a percentage of the attendee cost. These values vary based upon services offered and are often negotiated on a per organization and per event basis.
 
-The current billing rate for an event is comprised of several components associated with features, payment methods, or both. The current billing rate for any event for Your Organization can be seen in detail on the “Billing” tab in the dashboard for that event. The aggregated rate for each event is also displayed on the R900 Billing Summary report that can be generated for any period from Your Organization’s Billing page.
+The current billing rate for an event is comprised of several components associated with features, payment methods, or both. The current billing rate for any event for Your Organization can be seen in detail on the "Billing" tab in the dashboard for that event. The aggregated rate for each event is also displayed on the R900 Billing Summary report that can be generated for any period from Your Organization's Billing page.
 
 Each period will only be billed for attendees that registered during that period.
 
-A paid attendee in this context is an attendee who has a positive, non-zero “Cost”: the sum of the Price (often the face value of a ticket/registration) and Add-ons (any additional cost-added features attached to the ticket/registration) across all transactions for the specified period.
+A paid attendee in this context is an attendee who has a positive, non-zero "Cost": the sum of the Price (often the face value of a ticket/registration) and Add-ons (any additional cost-added features attached to the ticket/registration) across all transactions for the specified period.
 
 Paid attendees will be subject to the per-attendee rate (flat + percentage) that has been set for this event.
 
 Percentage fees are calculated based upon the Cost as defined above. Fees are never assessed on discounts, taxes, or delivery charges.
 
-A free (or “comped”) attendee in this context is an attendee who has a zero Cost as defined above. Please note that a discounted attendee (even 100%) is not the same as a free attendee by this definition.
+A free (or "comped") attendee in this context is an attendee who has a zero Cost as defined above. Please note that a discounted attendee (even 100%) is not the same as a free attendee by this definition.
 
 Free attendees are not subject to any fees unless other features (call center service, advertising, etc) have been enabled or another structure has been negotiated. 
 
@@ -43,7 +43,7 @@ Any manually created refunds, discounts, or other adjustments will be issued as 
 
 Anytime there is a change in fee structure for Your Organization or any store or event within Your Organization, You and the Billing Contact will receive email notification detailing the changes and comparing the current structure to the previous structure. You hereby agree that notification serves as both confirmation of the change and Your agreement to the change as outlined in the notification. If You object to the change made by a Brushfire employee or You or the Billing Contact did not initiate the change, you may contact Brushfire immediately via the methods specified in the notification email to ensure that the rates are set correctly and matching the desires of both You and Brushfire.
 
-Violation, manipulation, or abuse of of any of these guidelines is considered a breach of Brushfire’s terms of use and is subject to immediate termination of Your Organization’s account, retroactive billing, penalties, or all of the above.
+Violation, manipulation, or abuse of of any of these guidelines is considered a breach of Brushfire's terms of use and is subject to immediate termination of Your Organization's account, retroactive billing, penalties, or all of the above.
  
 ### Changes to Billing Terms
 
