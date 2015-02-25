@@ -13,7 +13,7 @@ When processing payments each period (according to the procedures specified in t
 
 All events are billed at a per-attendee rate that is a combination of a fixed amount per attendee and a percentage of the attendee cost. These values vary based upon services offered and are often negotiated on a per organization and per event basis.
 
-The current billing rate for an event is comprised of several components associated with features, payment methods, or both. The current billing rate for any event for Your Organization can be seen in detail on the "Billing" tab in the dashboard for that event. The aggregated rate for each event is also displayed on the R900 Billing Summary report that can be generated for any period from Your Organization's Billing page.
+The current billing rate for an event is comprised of several components associated with enabled features, special payment methods, or both. The current billing rate for any event for Your Organization can be seen in detail on the "Billing" tab in the dashboard for that event. The aggregated rate for each event is also displayed on the R900 Billing Summary report that can be generated for any period from Your Organization's Billing page.
 
 Each period will only be billed for attendees that registered during that period.
 
