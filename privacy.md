@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 06/25/2014
+date: 02/25/2015
 ---
 
 ## Privacy Policy
@@ -47,7 +47,7 @@ To secure your personal information from unauthorized access, use or disclosure,
  
 ### Children Under Thirteen
 
-Brushfire does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+Brushfire does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of eighteen (18), you must ask your parent or guardian for permission to use this website.
  
 ### Disconnecting your Brushfire Account from Third Party Websites
 
