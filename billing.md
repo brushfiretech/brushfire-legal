@@ -43,7 +43,7 @@ Any manually created refunds, discounts, or other adjustments will be issued as 
 
 Anytime there is a change in fee structure for Your Organization or any store or event within Your Organization, You and the Billing Contact will receive email notification detailing the changes and comparing the current structure to the previous structure. You hereby agree that notification serves as both confirmation of the change and Your agreement to the change as outlined in the notification. If You object to the change made by a Brushfire employee or You or the Billing Contact did not initiate the change, you may contact Brushfire immediately via the methods specified in the notification email to ensure that the rates are set correctly and matching the desires of both You and Brushfire.
 
-Violation, manipulation, or abuse of of any of these guidelines is considered a breach of Brushfire's terms of use and is subject to immediate termination of Your Organization's account, retroactive billing, penalties, or all of the above.
+Violation, manipulation, or abuse of any of these guidelines is considered a breach of Brushfire's terms of use and is subject to immediate termination of Your Organization's account, retroactive billing, penalties, or all of the above.
  
 ### Changes to Billing Terms
 
