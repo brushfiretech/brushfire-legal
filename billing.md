@@ -11,39 +11,39 @@ When processing payments each period (according to the procedures specified in t
 
 ### Guidelines
 
-All events are billed at a per-attendee rate that is a combination of a fixed amount per attendee and a percentage of the attendee cost. These values vary based upon services offered and are often negotiated on a per organization and per event basis.
+* All events are billed at a per-attendee rate that is a combination of a fixed amount per attendee and a percentage of the attendee price. These values vary based upon services offered and are often negotiated on a per organization and per event basis.
 
-The current billing rate for an event is comprised of several components associated with enabled features, special payment methods, or both. The current billing rate for any event for Your Organization can be seen in detail on the "Billing" tab in the dashboard for that event. The aggregated rate for each event is also displayed on the R900 Billing Summary report that can be generated for any period from Your Organization's Billing page.
+* The current billing rate for an event is comprised of several components associated with enabled features, special payment methods, or both. The current billing rate for any event for Your Organization can be seen in detail on the "Billing" tab in the dashboard for that event. The aggregated rate for each event is also displayed on the R900 Billing Summary report that can be generated for any period from Your Organization's Billing page.
 
-Each period will only be billed for attendees that registered during that period.
+* Each period will only be billed for attendees that registered during that period.
 
-A paid attendee in this context is an attendee who has a positive, non-zero "Cost": the sum of the Price (often the face value of a ticket/registration) and Add-ons (any additional cost-added features attached to the ticket/registration) across all transactions for the specified period.
+* A paid attendee in this context is an attendee who has a positive, non-zero "Price." The Price is defined as the sum of (1) the base price of the attendee and (2) any add-ons (additional features attached to the attendee that increase/decrease the base price) across all transactions for the specified period.
 
-Paid attendees will be subject to the per-attendee rate (flat + percentage) that has been set for this event.
+* Paid attendees will be subject to the per-attendee rate (flat + percentage) that has been set for this event.
 
-Percentage fees are calculated based upon the Cost as defined above. Fees are never assessed on discounts, taxes, or delivery charges.
+* Percentage fees are calculated based upon the Price as defined above. __Discounts, taxes, delivery charges, or penalties are never involved in calculation of fees.__
 
-A free (or "comped") attendee in this context is an attendee who has a zero Cost as defined above. Please note that a discounted attendee (even 100%) is not the same as a free attendee by this definition.
+* A free (or _comped_) attendee in this context, therefore, is an attendee who has a zero Price as defined above. __Please note that a discounted attendee (even 100%) is not the same as a free attendee by this definition, and is therefore still subject to the fees (calculated against the original Price) associated with paid attendees.__
 
-Free attendees are not subject to any fees unless other features (call center service, advertising, etc) have been enabled or another structure has been negotiated. 
+* Free attendees are not subject to any fees unless other features (call center service, advertising, etc) have been enabled or another structure has been negotiated. 
 
-Any attendees who are exchanged via the Exchange payment method are not assessed any fees.
+* Any attendees who are exchanged via the Exchange payment method are not assessed any fees.
 
-Brushfire provides You with the ability to pass on Brushfire fees or assess your own fees to the customer during checkout. Free attendees (as well as 100% discounted attendees) are never charged a fee during checkout regardless of what fee structure is set for the event.
+* Brushfire provides You with the ability to pass on Brushfire fees or assess your own fees to the customer during checkout. Free attendees (as well as 100% discounted attendees) are never charged a fee during checkout regardless of what fee structure is set for the event.
 
-Brushfire fees will be assessed on all attendees as outlined above and will not be refunded for any cancelled attendees. 
+* Brushfire fees will be assessed on all attendees as outlined above and will not be refunded for any cancelled attendees. 
 
-If an event is canceled, all of the above rules still apply to attendees created prior to the event being canceled. If the event is canceled prior to any attendees being created, Brushfire may, at its sole discretion, assess a one-time fee up to $1000 for services rendered.
+* If an event is canceled, all of the above rules still apply to attendees created prior to the event being canceled. If the event is canceled prior to any attendees being created, Brushfire may, at its sole discretion, assess a one-time fee up to $1000.00 USD for services rendered.
 
-Active product storefronts are billed a flat, monthly rate regardless of volume of products or transactions.
+* Active product storefronts are billed a flat, monthly rate regardless of volume of products or transactions.
 
-Miscellaneous costs (e.g. hardware, travel, manual adjustments) will be applied to each invoice and are not connected to any specific event or store.
+* Miscellaneous costs (e.g. hardware, travel, manual adjustments) will be applied to each invoice and are not connected to any specific event or store.
 
-Any manually created refunds, discounts, or other adjustments will be issued as future credits or charges. No transfers originating from Brushfire to Your Organization will be made.
+* Any manually created refunds, discounts, or other adjustments will be issued as future credits or charges. No transfers originating from Brushfire to Your Organization will be made.
 
-Anytime there is a change in fee structure for Your Organization or any store or event within Your Organization, You and the Billing Contact will receive email notification detailing the changes and comparing the current structure to the previous structure. You hereby agree that notification serves as both confirmation of the change and Your agreement to the change as outlined in the notification. If You object to the change made by a Brushfire employee or You or the Billing Contact did not initiate the change, you may contact Brushfire immediately via the methods specified in the notification email to ensure that the rates are set correctly and matching the desires of both You and Brushfire.
+* Anytime there is a change in fee structure for Your Organization or any store or event within Your Organization, You and the Billing Contact will receive email notification detailing the changes and comparing the current structure to the previous structure. You hereby agree that notification serves as both confirmation of the change and Your agreement to the change as outlined in the notification. If You object to the change made by a Brushfire employee or You or the Billing Contact did not initiate the change, you may contact Brushfire immediately via the methods specified in the notification email to ensure that the rates are set correctly and matching the desires of both You and Brushfire.
 
-Violation, manipulation, or abuse of any of these guidelines is considered a breach of Brushfire's terms of use and is subject to immediate termination of Your Organization's account, retroactive billing, penalties, or all of the above.
+* Violation, manipulation, or abuse of any of these guidelines is considered a breach of Brushfire's terms of use and is subject to immediate termination of Your Organization's account, retroactive billing, penalties, or all of the above.
  
 ### Changes to Billing Terms
 
