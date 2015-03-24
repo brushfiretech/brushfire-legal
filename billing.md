@@ -5,9 +5,9 @@ date: 02/25/2015
 
 ## Billing Terms
 
-The following terms are pursuant to the Terms of Use for this site as outlined in that document with the addition of the parameters and guidelines specified below.
+The following terms are pursuant to the [Terms of Use](https://brushfireapp.com/legal#terms) for this site as outlined in that document with the addition of the parameters and guidelines specified below.
 
-When processing payments each period (according to the procedures specified in the Automatic Recurring Billing Agreement) for an organization ("Your Organization") using Brushfire ("Brushfire"), Brushfire will apply the following guidelines to calculate usage fees:
+When processing payments each period (according to the procedures specified in the [Automatic Recurring Billing Agreement](https://brushfireapp.com/legal#recurring)) for an organization ("Your Organization") using Brushfire ("Brushfire"), Brushfire will apply the following guidelines to calculate usage fees:
 
 ### Guidelines
 
