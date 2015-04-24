@@ -27,11 +27,11 @@ When processing payments each period (according to the procedures specified in t
 
 * Free attendees are not subject to any fees unless other features (call center service, advertising, etc) have been enabled or another structure has been negotiated. 
 
-* Any attendees who are exchanged via the Exchange payment method are not assessed any fees.
-
 * Brushfire provides You with the ability to pass on Brushfire fees or assess your own fees to the customer during checkout. Free attendees (as well as 100% discounted attendees) are never charged a fee during checkout regardless of what fee structure is set for the event.
 
-* Brushfire fees will be assessed on all attendees as outlined above and will not be refunded for any cancelled attendees. 
+* Brushfire fees will be assessed on all attendees as outlined above and will not be refunded for any cancelled attendees (except for "Exchange" and "Consignment" sales as described below).
+
+* There are two payment methods in Brushfire called "Exchange" (used when doing an even-dollar-amount switch for an attendee) and "Consignment" (used for offline sales where unsold tickets are then returned to Brushfire). Since these two payment methods are explicitly designed for use-cases involving refunds, only attendees that are never refunded to Brushfire will be assessed fees.
 
 * If an event is canceled, all of the above rules still apply to attendees created prior to the event being canceled. If the event is canceled prior to any attendees being created, Brushfire may, at its sole discretion, assess a one-time fee up to $1000.00 USD for services rendered.
 
