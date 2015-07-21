@@ -33,7 +33,7 @@ When processing payments each period (according to the procedures specified in t
 
 * There are two payment methods in Brushfire called "Exchange" (used when doing an even-dollar-amount switch for an attendee) and "Consignment" (used for offline sales where unsold tickets are then returned to Brushfire). Since these two payment methods are explicitly designed for use-cases involving refunds, only attendees that are never refunded to Brushfire will be assessed fees.
 
-* If an event is canceled, all of the above rules still apply to attendees created prior to the event being canceled. If the event is canceled prior to any attendees being created, Brushfire may, at its sole discretion, assess a one-time fee up to $1000.00 USD for services rendered.
+* If an event is canceled, all of the above rules still apply to attendees registered prior to the event being canceled. This is because Brushfire's services were used to create the event, register the attendees, AND cancel the attendees. Additionally in certain circumstances, Brushfire may assess a one-time fee of up to $1000.00 USD for its time and involvement in a canceled event if we have participated heavily in the setup and configuration of the event.
 
 * Active product storefronts are billed a flat, monthly rate regardless of volume of products or transactions.
 
