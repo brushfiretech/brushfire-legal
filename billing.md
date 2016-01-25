@@ -44,6 +44,23 @@ When processing payments each period (according to the procedures specified in t
 * Anytime there is a change in fee structure for Your Organization or any store or event within Your Organization, You and the Billing Contact will receive email notification detailing the changes and comparing the current structure to the previous structure. You hereby agree that notification serves as both confirmation of the change and Your agreement to the change as outlined in the notification. If You object to the change made by a Brushfire employee or You or the Billing Contact did not initiate the change, you may contact Brushfire immediately via the methods specified in the notification email to ensure that the rates are set correctly and matching the desires of both You and Brushfire.
 
 * Violation, manipulation, or abuse of any of these guidelines is considered a breach of Brushfire's terms of use and is subject to immediate termination of Your Organization's account, retroactive billing, penalties, or all of the above.
+
+### International Rates
+
+Currently, all of Brushfire's billing is done in U.S. Dollars. Our international conversion rates are outlined below so that you might accurately budget for your event's cost. We update these rates quarterly in January, April, July, and October. The rate for your event will be set when the event is created and it will remain at that rate even if the event occurs in some future quarter. This is so that you can budget for your event with a known rate and it will not fluctuate for that event.
+
+| Country/Currency | U.S. Rate | Set Conversion Value |
+|:-----------------|--------:|-------:|
+| Australia (AUD) | $1.50 USD| $2.15 AUD|
+| Canada (CAD) | $1.50 USD| $2.15 CAD|
+| Euro (EUR)| $1.50 USD| €1.40|
+| Mexico (MXN) | $1.50 USD | $28.00 MXN |
+| South Africa (ZAR)| $1.50 USD| R 25.00|
+| Ukraine (UAH)| $1.50 USD| ₴38.00 |
+| United Kingdom (GBP) | $1.50 USD| £1.05|
+
+* Rates may vary by organization
+
  
 ### Changes to Billing Terms
 
