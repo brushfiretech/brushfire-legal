@@ -49,15 +49,20 @@ When processing payments each period (according to the procedures specified in t
 
 Currently, all of Brushfire's billing is done in U.S. Dollars. Our international conversion rates are outlined below so that you might accurately budget for your event's cost. We update these rates quarterly in January, April, July, and October. The rate for your event will be set when the event is created and it will remain at that rate even if the event occurs in some future quarter. This is so that you can budget for your event with a known rate and it will not fluctuate for that event.
 
-| Country/Currency | U.S. Rate | Set Conversion Value |
-|:-----------------|--------:|-------:|
-| Australia (AUD) | $1.50 USD| $2.15 AUD|
-| Canada (CAD) | $1.50 USD| $2.15 CAD|
-| Euro (EUR)| $1.50 USD| €1.40|
-| Mexico (MXN) | $1.50 USD | $28.00 MXN |
-| South Africa (ZAR)| $1.50 USD| R 25.00|
-| Ukraine (UAH)| $1.50 USD| ₴38.00 |
-| United Kingdom (GBP) | $1.50 USD| £1.05|
+<table>
+<tr>
+<th>Country/Currency</th>
+<th align=right>U.S. Rate</th>
+<th align=right>Set Conversion Value</th>
+</tr>
+<tr><td>Australia (AUD)</td><td align=right>$1.50 USD</td><td align=right>$2.15 AUD</td></tr>
+<tr><td>Canada (CAD)</td><td align=right>$1.50 USD</td><td align=right>$2.15 CAD</td></tr>
+<tr><td>Euro (EUR)</td><td align=right>$1.50 USD</td><td align=right>€1.40</td></tr>
+<tr><td>Mexico (MXN)</td><td align=right>$1.50 USD</td><td align=right>$28.00 MXN</td></tr>
+<tr><td>South Africa (ZAR)</td><td align=right>$1.50 USD</td><td align=right>R 25.00</td></tr>
+<tr><td>Ukraine (UAH)</td><td align=right>$1.50 USD</td><td align=right>₴38.00</td></tr>
+<tr><td>United Kingdom (GBP)</td><td align=right>$1.50 USD</td><td align=right>£1.05</td></tr>
+</table>
 
 * Rates may vary by organization
 
