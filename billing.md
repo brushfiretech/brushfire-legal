@@ -52,16 +52,16 @@ Currently, all of Brushfire's billing is done in U.S. Dollars. Our international
 <table>
 <tr>
 <th>Country/Currency</th>
-<th align=right>U.S. Rate</th>
-<th align=right>Set Conversion Value</th>
+<th style="text-align:right;">U.S. Rate</th>
+<th style="text-align:right;">Set Conversion Value</th>
 </tr>
 <tr><td>Australia (AUD)</td><td align=right>$1.50 USD</td><td align=right>$2.15 AUD</td></tr>
 <tr><td>Canada (CAD)</td><td align=right>$1.50 USD</td><td align=right>$2.15 CAD</td></tr>
-<tr><td>Euro (EUR)</td><td align=right>$1.50 USD</td><td align=right>€1.40</td></tr>
+<tr><td>Euro (EUR)</td><td align=right>$1.50 USD</td><td align=right>&euro;1.40</td></tr>
 <tr><td>Mexico (MXN)</td><td align=right>$1.50 USD</td><td align=right>$28.00 MXN</td></tr>
 <tr><td>South Africa (ZAR)</td><td align=right>$1.50 USD</td><td align=right>R 25.00</td></tr>
-<tr><td>Ukraine (UAH)</td><td align=right>$1.50 USD</td><td align=right>₴38.00</td></tr>
-<tr><td>United Kingdom (GBP)</td><td align=right>$1.50 USD</td><td align=right>£1.05</td></tr>
+<tr><td>Ukraine (UAH)</td><td align=right>$1.50 USD</td><td align=right>&#8372;38.00</td></tr>
+<tr><td>United Kingdom (GBP)</td><td align=right>$1.50 USD</td><td align=right>&pound;1.05</td></tr>
 </table>
 
 * Rates may vary by organization
