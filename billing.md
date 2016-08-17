@@ -61,7 +61,7 @@ Currently, all of Brushfire's billing is done in U.S. Dollars. Our international
 <tr><td>Mexico (MXN)</td><td align=right>$1.50 USD</td><td align=right>$28.00 MXN</td></tr>
 <tr><td>South Africa (ZAR)</td><td align=right>$1.50 USD</td><td align=right>R 25.00</td></tr>
 <tr><td>Ukraine (UAH)</td><td align=right>$1.50 USD</td><td align=right>&#8372;38.00</td></tr>
-<tr><td>United Kingdom (GBP)</td><td align=right>$1.50 USD</td><td align=right>&pound;1.05</td></tr>
+<tr><td>United Kingdom (GBP)</td><td align=right>$1.50 USD</td><td align=right>&pound;1.15</td></tr>
 </table>
 
 * Rates may vary by organization
