@@ -55,13 +55,13 @@ Currently, all of Brushfire's billing is done in U.S. Dollars. Our international
 <th style="text-align:right;">U.S. Rate</th>
 <th style="text-align:right;">Set Conversion Value</th>
 </tr>
-<tr><td>Australia (AUD)</td><td align=right>$1.50 USD</td><td align=right>$2.15 AUD</td></tr>
-<tr><td>Canada (CAD)</td><td align=right>$1.50 USD</td><td align=right>$2.15 CAD</td></tr>
-<tr><td>Euro (EUR)</td><td align=right>$1.50 USD</td><td align=right>&euro;1.40</td></tr>
-<tr><td>Mexico (MXN)</td><td align=right>$1.50 USD</td><td align=right>$28.00 MXN</td></tr>
-<tr><td>South Africa (ZAR)</td><td align=right>$1.50 USD</td><td align=right>R 25.00</td></tr>
-<tr><td>Ukraine (UAH)</td><td align=right>$1.50 USD</td><td align=right>&#8372;38.00</td></tr>
-<tr><td>United Kingdom (GBP)</td><td align=right>$1.50 USD</td><td align=right>&pound;1.15</td></tr>
+<tr><td>Australia (AUD)</td><td align=right>$1.50 USD</td><td align=right>$2.00 AUD</td></tr>
+<tr><td>Canada (CAD)</td><td align=right>$1.50 USD</td><td align=right>$2.00 CAD</td></tr>
+<tr><td>Euro (EUR)</td><td align=right>$1.50 USD</td><td align=right>&euro;1.35</td></tr>
+<tr><td>Mexico (MXN)</td><td align=right>$1.50 USD</td><td align=right>$29.00 MXN</td></tr>
+<tr><td>South Africa (ZAR)</td><td align=right>$1.50 USD</td><td align=right>R 21.00</td></tr>
+<tr><td>Ukraine (UAH)</td><td align=right>$1.50 USD</td><td align=right>&#8372;39.00</td></tr>
+<tr><td>United Kingdom (GBP)</td><td align=right>$1.50 USD</td><td align=right>&pound;1.20</td></tr>
 </table>
 
 * Rates may vary by organization
