@@ -1,70 +1,174 @@
 ---
 layout: default
-date: 02/25/2015
+date: 10/25/2016
 ---
 
 ## Privacy Policy
- 
-Protecting your private information is our priority. This Statement of Privacy governs data collection and usage. For information on our Terms of Use, please visit [https://brushfireapp.com/legal](https://brushfireapp.com/legal).
 
-Certain aspects of the Brushfire website are operated on behalf of the clients ("Clients") who pay to use our event management and ecommerce service. Any information we collect from you on their behalf, including but not limited to your personal information and checkout information (excluding sensitive payment information), is the rightful property of Brushfire and that Client. The use of that data by that Client is not governed by this Privacy Policy, but they are required to maintain the confidentiality of your information.
+### Section 1 - About Our Organization
 
-For the purposes of this Privacy Policy, unless otherwise noted, all references to "Brushfire" include Brushfire, its Clients, and all pages contained within the brushfireapp.com domain. The Brushfire website is a event management and ecommerce site. By using the Brushfire website, you consent to the data practices described in this statement.
- 
-### Collection of your Personal Information
+**1.1 Brushfire**
 
-Brushfire may collect personally identifiable information such as your name, address, phone number, or email. If you purchase products and/or services through our website, we collect billing and credit card information. This information is used to complete the purchase transaction. Brushfire may also collect anonymous demographic information, which is not unique to you, such as your age and gender. We may gather additional personal or non-personal information in the future.
- 
-Information about your computer hardware and software may be automatically collected by Brushfire. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Brushfire website.
- 
-Brushfire encourages you to review the privacy statements of websites you choose to link to from Brushfire so that you can understand how those websites collect, use and share your information. Brushfire is not responsible for the privacy statements or other content on websites outside of the Brushfire website.
- 
-### Use of your Personal Information
+Brushfire is an online ticketing and registration platform for ministry-related organizations. For over 13 years Brushfire has served event organizers who are making a difference through events.
 
-Brushfire collects and uses your personal information to operate its website(s) and deliver the services you have requested.  
- 
-Brushfire may also use your personally identifiable information to inform you of other products or services available from Brushfire and its affiliates. Brushfire may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
- 
-Brushfire does not sell, rent or lease its customer lists to third parties. Our Clients have access only to the data collected on the portion of the site/service that they manage.
- 
-Brushfire will not contact you on behalf of external business partners about a particular offering that may be of interest to you. Your unique personally identifiable information (e-mail, name, address, telephone number) is never released to external third parties.
- 
-Brushfire may keep track of the websites and pages our users visit within Brushfire, in order to determine what Brushfire services are the most popular. This data is used to deliver customized content and advertising within Brushfire to customers whose behavior indicates that they are interested in a particular subject area.
- 
-Brushfire will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Brushfire or the site; (b) protect and defend the rights or property of Brushfire; and, (c) act under exigent circumstances to protect the personal safety of users of Brushfire, or the public.
- 
-### Use of Cookies
+**1.2 Software and Services**
 
-The Brushfire website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
- 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Brushfire pages, or register with Brushfire site or services, a cookie helps Brushfire to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Brushfire website, the information you previously provided can be retrieved, so you can easily use the Brushfire features that you customized.
- 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Brushfire services or websites you visit.
- 
-### Security of your Personal Information
+This site and software are owned and operated by E-vent Software, Inc., dba Brushfire Technology (hereafter referred to "Brushfire"). Brushfire websites and domains, including brushfireapp.com, mobile applications, application program interface, and all web pages contained within these websites, are offered, maintained, and provided by Brushfire. We refer to all of these as our “Service.”
 
-To secure your personal information from unauthorized access, use or disclosure, Brushfire partners with DigiCert, Inc. to ensure that all pages are protected through the use of encryption and the Secure Sockets Layer (SSL) protocol.
- 
-### Children Under Thirteen
+E-vent Software, Inc. is a Texas for-profit corporation; our principal mailing address is P.O. Box 77122, Fort Worth, TX 76177. If you are a resident of the European Union, E-vent Software, Inc. is the responsible party or data controller with respect to Personal Data (as defined below) collected through the Service.
 
-Brushfire does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of eighteen (18), you must ask your parent or guardian for permission to use this website.
- 
-### Disconnecting your Brushfire Account from Third Party Websites
+**1.3 Users**
 
-You will be able to connect your Brushfire account to third party accounts (for example, Facebook, Twitter, Google, and common Church Management Software services). BY CONNECTING YOUR BRUSHFIRE ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Users may disconnect their accounts from third-party websites by visiting their "Profile" page.
- 
-### Opt-Out & Unsubscribe
+Certain aspects of the Brushfire Service are operated on behalf of the organizations (“Clients”) who pay to use Brushfire online ticketing and registration platform as event organizers offering tickets, registrations, donations, products, and other related services on behalf of their organization to end-users (“Customers”). When applicable, Brushfire and its Clients shall be collectively referred to as “We” or, possessively, “Our.” Visitors to the Brushfire Service, including Clients and Customers, shall be herein referred to as “Users” or “you.”
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving certain email communications that are sent by Clients of Brushfire. To opt-out or unsubscribe from those communications without affecting the delivery of critical communications (password resets, order confirmations, etc.) a single-click unsubscribe link is provided in the footer of every email sent by our Clients through our system.
- 
-### Changes to this Statement
+### Section 2 - Privacy Priority
 
-Brushfire reserves the right, in its sole discretion, to occasionally update this Statement of Privacy to reflect company and customer feedback. The most current version of this policy will supersede all previous versions and are effective according to the date that the commit was issued. To view commit history for this policy terms, please visit [this page](https://github.com/brushfiretech/brushfire-legal/commits/gh-pages/privacy.md). Brushfire encourages you to periodically review this Statement to be informed of how Brushfire is protecting your information.
- 
-### Contact Information
+Protecting your privacy when using the Service is Our priority. This Privacy Policy governs data usage for information that can be associated with or related to a person, or can be used to identify a person (“Personal Data”) collected from Users through the Service. Certain non-identifiable data about Users may also be collected by the Service. The usage of non-identifiable data about Users is not governed by this Privacy Policy.
 
-Brushfire welcomes your questions or comments regarding this Statement of Privacy. If you believe that Brushfire has not adhered to this Statement, please contact Brushfire in writing at:
+### Section 3 - Collection of Your Personal Data
+
+When using the Service, We may collect Personal Data, as outlined below:
+
+**3.1 Users**
+
+Brushfire collects Personal Data about you when using the Service, not limited to, creating a User account, submitting a customer service inquiry to Brushfire or Clients, and other miscellaneous interactions. The Personal Data collected can include name, phone, email, address, and other data used to identify you.
+
+When using the Service, We may collect data about your computer or device hardware and the software used to access the Service. This information can include: your IP address, browser type, domain names, access times, referring website addresses and other statistical or technical data about your hardware and software. This information is used for the operation of the Service, to maintain quality of the Service, and to provide general statistics regarding use of the Service. 
  
-PO Box 77122  
-Fort Worth, Texas 76177  
-[info@brushfiretech.com](mailto:info@brushfiretech.com)
+**3.1 Clients**
+
+Clients may use the Service to collect additional Personal Data from Customers. Any information We collect from Customers, including but not limited to Personal Data and checkout information, excluding sensitive payment data, is the rightful property of Brushfire and the Clients. Our use of your Personal Data is governed by this Privacy Policy. 
+
+**3.2 Customers**
+
+Customer Personal Data will be collected to facilitate payment, in any amount, through the Service, as required by Clients. Customer Personal Data may also be collected as part of registration or participation in Our use of the Service to organize events and other related activities. Brushfire release and transfer of your Personal Data with Clients is outlined below in Section 5 - Disclosure and Transfer of Your Personal Data.
+
+### Section 4 - Use of Your Personal Data
+
+We use your Personal Data to operate the Service. We may use your Personal Data as follows:
+
+**4.1 Direct Response**
+
+We may use your Personal Data to communicate with you regarding the original use for which you provided such information.
+
+**4.2 Use of Service**
+
+We may use your Personal Data to provide you with access of use to the Service or any of it’s functionality as deemed necessary by Brushfire or Clients.
+
+**4.3 Internal Tracking**
+
+We may use your Personal Data to keep track of the websites and pages you visit within the Service, in order to determine what parts of the Service are the most popular. Your Personal Data may also be used to deliver customized content and advertising within the Service, when your previous interaction with the Service indicates that this may be beneficial to you.
+
+**4.4 Communication to Customers from Clients**
+
+Brushfire allows Clients to communicate with Customers by email that are presently interacting with or have interacted with the Service in the past.
+
+**4.5 Additional Use**
+
+If We intend to use your Personal Data in a manner not mentioned in this Privacy Policy, excluding the inclusion of third parties, we will provide prior notice or request your consent before doing so.
+
+### Section 5 - Disclosure and Transfer of Your Personal Data
+
+**5.1 Sale**
+
+Brushfire has not in the past, does not currently, and will not in the future sell, rent, or lease your Personal Data to Clients or third parties.
+
+**5.3 Business Operations**
+
+As corporate needs within Brushfire and for the Service change, Brushfire may buy, sell, or transfer business assets. Your Personal Data may be included in any transactions related to the corporate property of Brushfire. Your Personal Data may be shared with current and future Brushfire affiliates, in accordance with this Privacy Policy, as it relates to the operation of the Service. We may share your Personal Data with contractors or service providers that operate, maintain, and perform specific business-related activities for the Service and Clients. All disclosures and transfer of your Personal Data, as defined above, shall be in accordance with this Privacy Policy.
+
+**5.4 Clients**
+
+When Customers interact with Clients using the Service, Brushfire provides your Personal Data to the Client. The use of your Personal Data by that Client is not governed by this Privacy Policy. Clients are required to maintain the confidentiality of your Personal Data, and every effort should be made by Customers to review the policies and statements of use pertaining to your Personal Data by Clients of the Service.
+
+**5.5 Third Party Connections**
+
+Users will be able to connect their Service account to third party accounts, not limited to, Facebook, Twitter, Google, and common Church Management Software services. We may share and disclose your Personal Data with your third party account provider. 
+
+**5.6 Legal Disclosure and Transfer**
+
+Brushfire will disclose and transfer your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Brushfire or the Service; (b) protect and defend the rights or property of Brushfire; and, (c) act under exigent circumstances to protect the personal safety of users of Brushfire, Clients, Customers, or the public.
+
+### Section 6 - Security and Storage of Your Personal Data
+
+To secure your Personal Data from unauthorized access, use, transfer or disclosure, Brushfire partners with DigiCert, Inc. to ensure that all pages accessed within Service are protected through the use of encryption and the Secure Sockets Layer or SSL protocol. We store your Personal Data using third party servers to whom we have transferred it in accordance with this Privacy Policy.
+
+### Section 7 - Your Access to Your Personal Data
+
+If you are registered with a Service account, you can access your Personal Data at any time by signing in to the Service at [https://brushfireapp.com/signin](https://brushfireapp.com/signin) and visiting the Profile or My Orders page. Any Client or Customer may contact Brushfire at any time to access, update, correct, or delete Personal Data through our online help desk at [https://help.brushfireapp.com](https://help.brushfireapp.com).
+
+### Section 8 - Data Retention
+
+We may retain your Personal Data as long as you are registered with a Service account or if you have been a Customer of Clients. You may close your account by making a written request  through our online help desk at [https://help.brushfireapp.com](https://help.brushfireapp.com). After closing your account, we may retain your Personal Data in accordance with the practice of legitimate business purposes of the Service or Clients.
+
+### Section 9 - Use of Cookies
+
+Brushfire may use cookies (“Cookies” or “a Cookie”) to help you personalize your online experience with the Service.
+
+**9.1 Definition**
+
+A Cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+**9.2 Purpose**
+
+The primary purpose for which the Service uses Cookies is to provide a convenience feature to save you time. Cookies may tell the Service that you have returned to a specific page. For example, if you personalize Service pages, or register an account with the Service, a Cookie helps the Service to recall your specific information, including limited Personal Data, on subsequent visits. This simplifies the process of recording your Personal Data for the facilitation of future transactions. When you return to the Service in the future, the Personal Data you previously provided can be retrieved, so you can easily use the Service features that you may have customized.
+
+**9.3 Use**
+
+You have the ability to accept or decline Cookies. Most web browsers automatically accept Cookies, but you can usually modify your browser settings to decline Cookies if you prefer. If you choose to decline Cookies, you may not be able to fully experience the interactive features of the Service.
+
+### Section 10 - Choices Concerning Your Personal Data
+
+You have choices when protecting the Personal Data you provide to the Service and Clients.
+
+**10.1 Limit Your Personal Data**
+
+You can browse and visit the Service without providing Personal Data. In order to register an account with the Service or complete a transaction through the Service you will be required to provide Personal Data. You may not be able to use the full extent of the Service if you do not choose to provide the Service or Clients with your Personal Data.
+
+**10.2 Opt-Out and Unsubscribe**
+
+*(a) Service Communications*
+
+Service Communications are directly related to transactions or a Customer and their use of the Service, including but not limited to, password resets and confirmation emails. You are unable to opt-out of transactional or related communications regarding your use of the Service.
+
+*(b) Client Communications*
+
+Client Communications are communications regarding non-transactional information from Clients to Customers using the Service. You may opt-out of receiving communications through the Service from Clients that are not Service Communications as defined above. To opt-out or unsubscribe from Client Communications, without affecting the delivery of Service Communications, a single-click unsubscribe link is provided in the footer of every email sent by Clients to Customers.
+
+*(c) Cease All Communications*
+
+You may request that We cease all communication from the Service through our online help desk at [https://help.brushfireapp.com](https://help.brushfireapp.com).
+
+*(d) Application*
+
+Opt-out, unsubscribe, and cease requests may take up to 3 business days to process. We may retain your Personal Data after such requests have been made. Clients who have received your Personal Data and your opt-out, unsubscribe, or cease request, in accordance with this Privacy Policy, cannot use the Service to contact you, they may be able to contact you outside of the Service.
+
+### Section 11 - Children
+
+Brushfire does not knowingly collect Personal Data from children under the age of thirteen. If you are under the age of eighteen, you must ask your parent or legal guardian for permission to use the Service.
+
+### Section 12 - International Usage
+
+**12.1 Service Location**
+
+The Service is controlled, operated and administered by Brushfire from within the United States. All interactions with the Service, including the transmission of Personal Data, involves sending information to our servers located in the United States. If you access the Service from a location outside the United States, you are responsible for compliance with all local laws in regards to the transmission of your Personal Data. 
+
+**12.2 EU-US Privacy Shield**
+
+All Personal Data the Service receives from the European Union is subject to regulation by the EU-US Privacy Shield as set forth by the United States Department of Commerce, to which we have certified our compliance. We have certified that we adhere to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity & Purpose Limitation, Access and Recourse, Enforcement & Liability when processing Personal Data from the European Union in the United States. To review our Privacy Shield compliance certification please visit [this page](https://www.privacyshield.gov/list).
+
+Brushfire is subject to the investigatory and enforcement powers of the Federal Trade Commission and the Department of Transportation of the United States, and as such Customers may be entitled to invoke binding arbitration for disputes related to Personal Data. Brushfire is also liable in matters of compliance with the EU-Privacy Shield principles regarding the onward transfer of your Personal Data to third parties. Please see Section 14 - Complaints or Disputes to review your options for submitting complaints or disputes regarding Our handling of your Personal Data.
+
+### Section 13 - Changes to This Privacy Policy
+
+Brushfire reserves the right, in its sole discretion, to update this Privacy Policy statement to reflect Service, Clients, and Customer feedback as well as to maintain compliance with applicable governmental regulations. The most current version of this Privacy Policy will supersede all previous versions and are effective according to the date that the update was rendered. To view the update history for this Privacy Policy, please visit this page (https://github.com/brushfiretech/brushfire-legal/commits/gh-pages/privacy.md). Brushfire encourages you to periodically review this Privacy Policy to be informed of how We are protecting your information.
+
+### Section 14 - Complaints or Disputes
+
+**14.1 Complaints**
+
+If you have a complaint about how We have handled your Personal Data or Brushfire privacy practices, please contact us in writing at Brushfire Technology, Attn: Privacy Officer, P.O. Box 77122, Fort Worth, TX 76177 USA, or by email to [privacy@brushfiretech.com](mailto:privacy@brushfiretech.com). We will take all necessary and reasonable steps to work with you to attempt to resolve your complaint.
+
+**14.2 Dispute Resolution**
+
+Residents of the European Union who believe their Personal Data has not been handled in compliance with the Principles outlined in the EU-US Privacy Shield may file a dispute through the BBB EU Privacy Shield Program.
