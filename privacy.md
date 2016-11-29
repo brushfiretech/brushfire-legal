@@ -13,7 +13,7 @@ Brushfire is an online ticketing and registration platform for ministry-related 
 
 **1.2 Software and Services**
 
-This site and software are owned and operated by E-vent Software, Inc., dba Brushfire Technology (hereafter referred to "Brushfire"). Brushfire websites and domains, including brushfireapp.com, mobile applications, application program interface, and all web pages contained within these websites, are offered, maintained, and provided by Brushfire. We refer to all of these as our “Service.”
+This site and software are owned and operated by E-vent Software, Inc., dba Brushfire Technology (hereafter referred to "Brushfire"). Brushfire websites and domains, including [brushfireapp.com](brushfireapp.com), mobile applications, application program interface, and all web pages contained within these websites, are offered, maintained, and provided by Brushfire. We refer to all of these as our “Service.”
 
 E-vent Software, Inc. is a Texas for-profit corporation; our principal mailing address is P.O. Box 77122, Fort Worth, TX 76177. If you are a resident of the European Union, E-vent Software, Inc. is the responsible party or data controller with respect to Personal Data (as defined below) collected through the Service.
 
@@ -101,13 +101,13 @@ To secure your Personal Data from unauthorized access, use, transfer or disclosu
 
 ### Section 7 - Your Access to Your Personal Data
 
-You have a right to access your Person Data stored in Brushfire. If you are registered with a Service account, you can access your Peresonal Data at any time by signing in to the Service at https://brushfireapp.com/signin and visiting the Profile or My Orders page. Any Client or Customer may contact Brushfire at any time to access, update, correct, or delete Personal Data through our online help desk at https://help.brushfireapp.com.
+You have a right to access your Person Data stored in Brushfire. If you are registered with a Service account, you can access your Peresonal Data at any time by signing in to the Service at [https://brushfireapp.com/signin](https://brushfireapp.com/signin) and visiting the Profile or My Orders page. Any Client or Customer may contact Brushfire at any time to access, update, correct, or delete Personal Data through our online help desk at [https://help.brushfireapp.com](https://help.brushfireapp.com).
 
-We acknowledge that EU individuals have the right to access the Personal Data that we maintain about them. An EU individual who seeks access, or who seeks to correct, amend, or delete inaccurate Personal Data, should submit their query to our online help desk at https://help.brushfireapp.com. If requested to remove Presonal Data, we will respond within a reasonable timeframe.
+We acknowledge that EU individuals have the right to access the Personal Data that we maintain about them. An EU individual who seeks access, or who seeks to correct, amend, or delete inaccurate Personal Data, should submit their query to our online help desk at [https://help.brushfireapp.com](https://help.brushfireapp.com). If requested to remove Presonal Data, we will respond within a reasonable timeframe.
 
 ### Section 8 - Data Retention
 
-We may retain your Personal Data as long as you are registered with a Service account or if you have been a Customer of Clients. You may close your account by making a written request through our online help desk at https://help.brushfireapp.com. After closing your account, We may retain your Personal Data in accordance with the practice of legitimate business purposes of the Service or Clients.
+We may retain your Personal Data as long as you are registered with a Service account or if you have been a Customer of Clients. You may close your account by making a written request through our online help desk at [https://help.brushfireapp.com](https://help.brushfireapp.com). After closing your account, We may retain your Personal Data in accordance with the practice of legitimate business purposes of the Service or Clients.
 
 ### Section 9 - Use of Cookies
 
@@ -145,7 +145,7 @@ Client Communications are communications regarding non-transactional information
 
 *(c) Cease All Communications*
 
-You may request that We cease all communication from the Service through our online help desk at https://help.brushfireapp.com.
+You may request that We cease all communication from the Service through our online help desk at [https://help.brushfireapp.com](https://help.brushfireapp.com).
 
 *(d) Application*
 
@@ -163,11 +163,11 @@ The Service is controlled, operated and administered by Brushfire from within th
 
 **12.2 EU-US Privacy Shield**
 
-All Personal Data the Service receives from the European Union is subject to regulation by the EU-US Privacy Shield as set forth by the US Department of Commerce, to which we have self-certified our compliance. E-vent Software, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. E-vent Software, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/. Please see Section 14 - Complaints or Disputes to review your options for submitting complaints or disputes regarding Our handling of your Personal Data.
+All Personal Data the Service receives from the European Union is subject to regulation by the EU-US Privacy Shield as set forth by the US Department of Commerce, to which we have self-certified our compliance. E-vent Software, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. E-vent Software, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/). Please see Section 14 - Complaints or Disputes to review your options for submitting complaints or disputes regarding Our handling of your Personal Data.
 
 ### Section 13 - Changes to This Privacy Policy
 
-Brushfire reserves the right, in its sole discretion, to update this Privacy Policy statement to reflect Service, Clients, and Customer feedback as well as to maintain compliance with applicable governmental regulations. The most current version of this Privacy Policy will supersede all previous versions and are effective according to the date that the update was rendered. To view the update history for this Privacy Policy, please visit https://github.com/brushfiretech/brushfire-legal/commits/gh-pages/privacy.md. Brushfire encourages you to periodically review this Privacy Policy to be informed of how We are protecting your information.
+Brushfire reserves the right, in its sole discretion, to update this Privacy Policy statement to reflect Service, Clients, and Customer feedback as well as to maintain compliance with applicable governmental regulations. The most current version of this Privacy Policy will supersede all previous versions and are effective according to the date that the update was rendered. To view the update history for this Privacy Policy, please visit [https://github.com/brushfiretech/brushfire-legal/commits/gh-pages/privacy.md](https://github.com/brushfiretech/brushfire-legal/commits/gh-pages/privacy.md). Brushfire encourages you to periodically review this Privacy Policy to be informed of how We are protecting your information.
 
 ### Section 14 - Complaints or Disputes
 
@@ -180,7 +180,7 @@ Attn: Privacy Officer
 P.O. Box 77122  
 Fort Worth, TX 76177 USA
 
-Or by email to privacy@brushfiretech.com. We will take all necessary and reasonable steps to work with you to attempt to resolve your complaint.
+Or by email to [privacy@brushfiretech.com](mailto:privacy@brushfiretech.com). We will take all necessary and reasonable steps to work with you to attempt to resolve your complaint.
 
 **14.2 Dispute Resolution**
 
@@ -191,8 +191,8 @@ Attn: Privacy Officer
 P.O. Box 77122  
 Fort Worth, TX 76177 USA  
 +1 (866) 825-8252  
-privacy@brushfiretech.com 
+[privacy@brushfiretech.com](mailto:privacy@brushfiretech.com)
 
-E-vent Software, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. 
+E-vent Software, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. 
  
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
