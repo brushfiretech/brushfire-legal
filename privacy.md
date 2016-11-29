@@ -175,9 +175,9 @@ Brushfire reserves the right, in its sole discretion, to update this Privacy Pol
 
 E-vent Software, Inc. is subject to the investigatory and enforcement powers of the Federal Trade Commission. If you have a complaint about how We have handled your Personal Data or Brushfire privacy practices, please contact us in writing at:
 
-Brushfire Technology 
-Attn: Privacy Officer 
-P.O. Box 77122 
+Brushfire Technology  
+Attn: Privacy Officer  
+P.O. Box 77122  
 Fort Worth, TX 76177 USA
 
 Or by email to privacy@brushfiretech.com. We will take all necessary and reasonable steps to work with you to attempt to resolve your complaint.
@@ -186,12 +186,11 @@ Or by email to privacy@brushfiretech.com. We will take all necessary and reasona
 
 In compliance with the EU-US Privacy Shield Principles, E-vent Software, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact E-vent Software, Inc. at:
 
-Brushfire Technology 
-Attn: Privacy Officer 
-P.O. Box 77122 
-Fort Worth, TX 76177 USA 
-+1 (866) 825-8252
-
+Brushfire Technology  
+Attn: Privacy Officer  
+P.O. Box 77122  
+Fort Worth, TX 76177 USA  
++1 (866) 825-8252  
 privacy@brushfiretech.com 
 
 E-vent Software, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. 
