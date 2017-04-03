@@ -51,10 +51,10 @@ Currently, all of Brushfire's billing is done in U.S. Dollars. Our international
 
 |Country/Currency|U.S. Rate|Set Conversion Value|
 |:---------------|--------:|-------------------:|
-|Australia (AUD)|$1.50 USD|$2.10 AUD|
+|Australia (AUD)|$1.50 USD|$2.00 AUD|
 |Canada (CAD)|$1.50 USD|$2.00 CAD|
-|Euro (EUR)|$1.50 USD|€1.43|
-|Mexico (MXN)|$1.50 USD|$31.00 MXN|
+|Euro (EUR)|$1.50 USD|€1.41|
+|Mexico (MXN)|$1.50 USD|$28.00 MXN|
 |South Africa (ZAR)|$1.50 USD|R 21.00|
 |Ukraine (UAH)|$1.50 USD|₴41.00|
 |United Kingdom (GBP)|$1.50 USD|£1.20|
