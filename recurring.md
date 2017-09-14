@@ -11,7 +11,7 @@ Please read this agreement carefully and in full before agreeing to create an ac
 
 ### Billing Terms and Terms of Use
 
-The guidelines by which Brushfire calculates its fees is outlined in the Billing Terms available at [https://brushfireapp.com/legal](https://brushfireapp.com/legal). By entering into this agreement, you also agree to the Billing Terms in their entirety. This document is also pursuant to all of the Terms of Use of Brushfire as outlined at [https://brushfireapp.com/legal](https://brushfireapp.com/legal).
+The guidelines by which Brushfire calculates its fees is outlined in the Billing Terms available at [https://brushfire.com/legal](https://brushfire.com/legal). By entering into this agreement, you also agree to the Billing Terms in their entirety. This document is also pursuant to all of the Terms of Use of Brushfire as outlined at [https://brushfire.com/legal](https://brushfire.com/legal).
 
 ### Frequency of Payments
 
@@ -35,7 +35,7 @@ You have the right to change Your payment method or withdraw Your consent to thi
 
 ### Re-establishing Account and Automatic Recurring Payment
 
-You may reopen Your account at any time by contacting Brushfire customer service at help@brushfiretech.com. At this point, Your Organization's account will be reactivated and a new billing cycle will be established. You will be billed any applicable one-time fees as well as the first Period's pre-payment for that Period (often no charge). Billing will continue under the guidelines described above just as if a new account had been created.
+You may reopen Your account at any time by contacting Brushfire customer service at help@brushfire.com. At this point, Your Organization's account will be reactivated and a new billing cycle will be established. You will be billed any applicable one-time fees as well as the first Period's pre-payment for that Period (often no charge). Billing will continue under the guidelines described above just as if a new account had been created.
 
 ### Changing Payment Method for Automatic Recurring Payment
 
@@ -63,4 +63,4 @@ Brushfire welcomes questions or comments in writing regarding this Automatic Rec
  
 PO Box 77122  
 Fort Worth, Texas 76177  
-[info@brushfiretech.com](mailto:info@brushfiretech.com)
+[info@brushfire.com](mailto:info@brushfire.com)
