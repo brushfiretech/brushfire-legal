@@ -5,15 +5,15 @@ date: 02/25/2015
 
 ## Terms of Use
 
-This site is owned and operated by Brushfire (E-vent Software, Inc.) (hereafter referred to "Brushfire").  This document applies to all pages contained within the brushfireapp.com domain (the "Site" or the "Service").  Herein, the organization who enlists our services to create and/or manage their web site shall be referred to as the "Client".  Collectively, Brushfire and its Clients shall be referred to as "We" or, possessively, "Our." Visitors to one of our sites shall be herein referred to by either "User" or "Customer." The Site is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein (the "Terms"). Your use of the Site constitutes your agreement to all such Terms. Please read these terms carefully, and keep a copy of them for your reference.
+This site is owned and operated by Brushfire (E-vent Software, Inc.) (hereafter referred to "Brushfire").  This document applies to all pages contained within the brushfire.com domain (the "Site" or the "Service").  Herein, the organization who enlists our services to create and/or manage their web site shall be referred to as the "Client".  Collectively, Brushfire and its Clients shall be referred to as "We" or, possessively, "Our." Visitors to one of our sites shall be herein referred to by either "User" or "Customer." The Site is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein (the "Terms"). Your use of the Site constitutes your agreement to all such Terms. Please read these terms carefully, and keep a copy of them for your reference.
 
 ### Privacy
 
-For information on our Privacy Policy, please visit [https://brushfireapp.com/legal](https://brushfireapp.com/legal). Violation, manipulation, or abuse of the Privacy Policy is paramount to violation of these Terms of Use.
+For information on our Privacy Policy, please visit [https://brushfire.com/legal](https://brushfire.com/legal). Violation, manipulation, or abuse of the Privacy Policy is paramount to violation of these Terms of Use.
 
 ### Billing
 
-Brushfire charges the Clients for use of our Site and Services and not the Users or Customers directly. For more information about our Billing Terms and Automatic Recurring Billing Agreement, please visit [https://brushfireapp.com/legal](https://brushfireapp.com/legal). Violation, manipulation, or abuse of the Billing Terms or Automatic Recurring Billing Agreement is paramount to violation of these Terms of Use.
+Brushfire charges the Clients for use of our Site and Services and not the Users or Customers directly. For more information about our Billing Terms and Automatic Recurring Billing Agreement, please visit [https://brushfire.com/legal](https://brushfire.com/legal). Violation, manipulation, or abuse of the Billing Terms or Automatic Recurring Billing Agreement is paramount to violation of these Terms of Use.
 
 ### Electronic Communications
 
@@ -94,4 +94,4 @@ Brushfire welcomes questions or comments in writing regarding these Terms. Pleas
  
 PO Box 77122  
 Fort Worth, Texas 76177  
-[info@brushfiretech.com](mailto:info@brushfiretech.com)
+[info@brushfire.com](mailto:info@brushfire.com)
