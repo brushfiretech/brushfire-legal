@@ -23,7 +23,18 @@ Certain aspects of the Brushfire Service are operated on behalf of the organizat
 
 ### Section 2 - Privacy Priority
 
+**2.1 Consent**
+
 Protecting your privacy when using the Service is Our priority. This Privacy Policy governs data usage for information that can be associated with or related to a person, or can be used to identify a person (“Personal Data”) collected from Users through the Service. Certain non-identifiable data about Users may also be collected by the Service. The usage of non-identifiable data about Users is not governed by this Privacy Policy.
+
+**2.2 Data Processor**
+
+Brushfire acts as a data processor in relation to the Personal Data you provide to Clients that is stored and processed with the Service.
+
+**2.3 Data Controller**
+
+Clients using the Service act as data controllers in relation to the Personal Data you provide.
+
 
 ### Section 3 - Collection of Your Personal Data
 
@@ -164,6 +175,11 @@ The Service is controlled, operated and administered by Brushfire from within th
 **12.2 EU-US Privacy Shield**
 
 All Personal Data the Service receives from the European Union is subject to regulation by the EU-US Privacy Shield as set forth by the US Department of Commerce, to which we have self-certified our compliance. E-vent Software, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. E-vent Software, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/). Please see Section 14 - Complaints or Disputes to review your options for submitting complaints or disputes regarding Our handling of your Personal Data.
+
+**12.3 EU General Data Protection Regulation**
+
+Clients that are subject to the EU General Data Protection Regulation (“GDPR”) understand that Personal Data, as defined by GDPR, collected from Customers by Clients use of the Service is processed by the Service and controlled by Clients. Clients agree to process and control data in accordance with their obligations under applicable data protection regulations, including GDPR.
+
 
 ### Section 13 - Changes to This Privacy Policy
 
