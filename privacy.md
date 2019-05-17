@@ -112,13 +112,13 @@ To secure your Personal Data from unauthorized access, use, transfer or disclosu
 
 ### Section 7 - Your Access to Your Personal Data
 
-You have a right to access your Person Data stored in Brushfire. If you are registered with a Service account, you can access your Peresonal Data at any time by signing in to the Service at [https://brushfire.com/signin](https://brushfire.com/signin) and visiting the Profile or My Orders page. Any Client or Customer may contact Brushfire at any time to access, update, correct, or delete Personal Data through our online help desk at [https://help.brushfire.com](https://help.brushfire.com).
+You have a right to access your Personal Data stored in Brushfire. If you are registered with a Service account, you can access your Personal Data at any time by signing in to the Service at [https://brushfire.com/signin](https://brushfire.com/signin) and visiting the Profile or My Orders page. Any Client or Customer may contact Brushfire at any time to access, update, correct, or delete Personal Data through our online help desk at [https://get.brushfire.help](https://get.brushfire.help).
 
-We acknowledge that EU individuals have the right to access the Personal Data that we maintain about them. An EU individual who seeks access, or who seeks to correct, amend, or delete inaccurate Personal Data, should submit their query to our online help desk at [https://help.brushfire.com](https://help.brushfire.com). If requested to remove Presonal Data, we will respond within a reasonable timeframe.
+We acknowledge that EU individuals have the right to access the Personal Data that we maintain about them. An EU individual who seeks access, or who seeks to correct, amend, or delete inaccurate Personal Data, should submit their query to our online help desk at [https://get.brushfire.help](https://get.brushfire.help). If requested to remove Presonal Data, we will respond within a reasonable timeframe.
 
 ### Section 8 - Data Retention
 
-We may retain your Personal Data as long as you are registered with a Service account or if you have been a Customer of Clients. You may close your account by making a written request through our online help desk at [https://help.brushfire.com](https://help.brushfire.com). After closing your account, We may retain your Personal Data in accordance with the practice of legitimate business purposes of the Service or Clients.
+We may retain your Personal Data as long as you are registered with a Service account or if you have been a Customer of Clients. You may close your account by making a written request through our online help desk at [https://get.brushfire.help](https://get.brushfire.help). After closing your account, We may retain your Personal Data in accordance with the practice of legitimate business purposes of the Service or Clients.
 
 ### Section 9 - Use of Cookies
 
@@ -156,7 +156,7 @@ Client Communications are communications regarding non-transactional information
 
 *(c) Cease All Communications*
 
-You may request that We cease all communication from the Service through our online help desk at [https://help.brushfire.com](https://help.brushfire.com).
+You may request that We cease all communication from the Service through our online help desk at [https://get.brushfire.help](https://get.brushfire.help).
 
 *(d) Application*
 
