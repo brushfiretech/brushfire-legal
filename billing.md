@@ -47,19 +47,9 @@ When processing payments each period (according to the procedures specified in t
 
 ### International Rates
 
-Currently, all of Brushfire's billing is done in U.S. Dollars. Our international conversion rates are outlined below so that you might accurately budget for your event's cost. We update these rates quarterly in January, April, July, and October. The rate for your event will be set when the event is created and it will remain at that rate even if the event occurs in some future quarter. This is so that you can budget for your event with a known rate and it will not fluctuate for that event.
+All of Brushfire's billing is done in U.S. Dollars (USD). Brushfire has established a flat rate of $1.50* USD per paid attendee, as defined above, for organization's outside of the United States. Brushfire fees may be remitted by internaional wire transfers in USD only. For wiring instrutions please contact us by emailing [help@brushfire.com](mailto:help@brushfire.com). 
 
-|Country/Currency|U.S. Rate|Set Conversion Value|
-|:---------------|--------:|-------------------:|
-|Australia (AUD)|$1.50 USD|$1.95 AUD|
-|Canada (CAD)|$1.50 USD|$1.92 CAD|
-|Euro (EUR)|$1.50 USD|€1.23|
-|Mexico (MXN)|$1.50 USD|$27.19 MXN|
-|South Africa (ZAR)|$1.50 USD|R 18.00|
-|Ukraine (UAH)|$1.50 USD|₴40.00|
-|United Kingdom (GBP)|$1.50 USD|£1.07|
-
-* Rates may vary by organization
+*Rates may vary by organization
 
  
 ### Changes to Billing Terms
