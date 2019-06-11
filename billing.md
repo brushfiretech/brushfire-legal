@@ -47,7 +47,7 @@ When processing payments each period (according to the procedures specified in t
 
 ### International Rates
 
-All of Brushfire's billing is done in U.S. Dollars (USD). Brushfire has established a flat rate of $1.50* USD per paid attendee, as defined above, for organization's outside of the United States. Brushfire fees may be remitted by internaional wire transfers in USD only. For wiring instrutions please contact us by emailing [help@brushfire.com](mailto:help@brushfire.com). 
+All of Brushfire's billing is done in U.S. Dollars (USD). Brushfire has established a flat rate of $1.50* USD per paid attendee, as defined above, for organizations outside of the United States. Brushfire fees may be remitted by internaional wire transfers in USD only. For wiring instrutions please contact us by emailing [help@brushfire.com](mailto:help@brushfire.com). 
 
 *Rates may vary by organization
 
